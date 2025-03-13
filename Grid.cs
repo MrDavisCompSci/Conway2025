@@ -1,5 +1,5 @@
 ﻿using System;
-namespace _2022_A3_GameOfLife
+namespace GameOfLife
 {
 	public class Grid
 	{

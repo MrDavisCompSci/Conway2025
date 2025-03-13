@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPnF6jfHddM=",
+  "dgSpecHash": "qqPh30WXXSE=",
   "success": true,
-  "projectFilePath": "/workspaces/ConsoleTemplate/ConsoleTemplate.csproj",
+  "projectFilePath": "/workspaces/Conway2025/ConsoleTemplate.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",

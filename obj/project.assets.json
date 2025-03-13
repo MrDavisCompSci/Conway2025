@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ConsoleTemplate/ConsoleTemplate.csproj",
+      "projectUniqueName": "/workspaces/Conway2025/ConsoleTemplate.csproj",
       "projectName": "ConsoleTemplate",
-      "projectPath": "/workspaces/ConsoleTemplate/ConsoleTemplate.csproj",
+      "projectPath": "/workspaces/Conway2025/ConsoleTemplate.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ConsoleTemplate/obj/",
+      "outputPath": "/workspaces/Conway2025/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -78,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }

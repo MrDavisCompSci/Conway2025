@@ -1,4 +1,4 @@
-﻿namespace _2022_A3_GameOfLife;
+﻿namespace GameOfLife;
 class Program
 {
     static void Main(string[] args)
