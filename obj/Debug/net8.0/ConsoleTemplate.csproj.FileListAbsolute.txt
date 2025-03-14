@@ -1,0 +1,15 @@
+/workspaces/Conway2025/bin/Debug/net8.0/ConsoleTemplate
+/workspaces/Conway2025/bin/Debug/net8.0/ConsoleTemplate.deps.json
+/workspaces/Conway2025/bin/Debug/net8.0/ConsoleTemplate.runtimeconfig.json
+/workspaces/Conway2025/bin/Debug/net8.0/ConsoleTemplate.dll
+/workspaces/Conway2025/bin/Debug/net8.0/ConsoleTemplate.pdb
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.AssemblyInfoInputs.cache
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.AssemblyInfo.cs
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.csproj.CoreCompileInputs.cache
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.sourcelink.json
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.dll
+/workspaces/Conway2025/obj/Debug/net8.0/refint/ConsoleTemplate.dll
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.pdb
+/workspaces/Conway2025/obj/Debug/net8.0/ConsoleTemplate.genruntimeconfig.cache
+/workspaces/Conway2025/obj/Debug/net8.0/ref/ConsoleTemplate.dll

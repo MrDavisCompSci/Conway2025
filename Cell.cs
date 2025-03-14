@@ -22,9 +22,11 @@ namespace GameOfLife
 			if(alive)
 			{
 				Console.Write('\u2588'); // full block
+				Console.Write('\u2588'); // double up for squareness
 			}
 			else
 			{
+				Console.Write('.');
 				Console.Write('.');
 			}
 		}
