@@ -21,7 +21,7 @@ namespace GameOfLife
 		{
 			if(alive)
 			{
-				Console.Write('O');
+				Console.Write('\u2588'); // full block
 			}
 			else
 			{

@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "console": "internalConsole",
-            "program": "${workspaceFolder}/bin/Debug/net7.0/ConsoleTemplate.dll"
+            "program": "${workspaceFolder}/bin/Debug/net8.0/ConsoleTemplate.dll"
         }
 
     ]
